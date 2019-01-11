@@ -1,4 +1,4 @@
-# gitskills
+# 感谢您的经过，欢迎交流指正！
 
 1.JsZs.github.io：结合HEXO搭建了个人博客。https://jszs.github.io/
 （后因CSDN的排名系统可以激励自己，从2018/05将学习内容转至https://blog.csdn.net/qq_24572475
