@@ -1,6 +1,6 @@
 # gitskills
 
-1.结合HEXO搭建了个人博客。https://jszs.github.io/
+1.JsZs.github.io：结合HEXO搭建了个人博客。https://jszs.github.io/
 （后因CSDN的排名系统可以激励自己，从2018/05将学习内容转至https://blog.csdn.net/qq_24572475
 发布69篇文章，其中包含读书笔记，算法题，项目经验等）
 
