@@ -15,7 +15,7 @@
 （有代码待维护，上传单机版，并发版，分布式版三个模块）
 
 
-5.newsWebsite:研一开始接触SpringBoot，学习得简易的资讯分享网站项目
+5.newsWebsite:研一开始接触SpringBoot，结合Mybatis学习的资讯分享网站项目
 
 
 6.unityGames/unityGames2:考研结束的暑假所做，基于Unity引擎和C#的小游戏开发
