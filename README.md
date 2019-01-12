@@ -11,7 +11,7 @@
 
 
 3.paini_service:实习前由老师牵线，负责人郑泽带领的派尼APP项目，后端基于SpringBoot/SpringData
-（已交付）
+（已交付上海派尼实业科技有限公司）
 
 
 4.awesomeProject：实习阶段抽时间自学的Golang爬虫
