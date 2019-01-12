@@ -1,7 +1,7 @@
 # 感谢您的访问，欢迎交流指正！
 
 *大学时期未养成维护Github的习惯，最近被要求看代码意识到了此问题。
-∴本网址内容会不断更新
+∴本网址内容会不断更新*
 
 1.JsZs.github.io：结合HEXO搭建了个人博客。https://jszs.github.io/
 （后因CSDN的排名系统可以激励自己，从2018/05将学习内容转至https://blog.csdn.net/qq_24572475
@@ -26,7 +26,7 @@
 ----
 未上传
 
-7.coolWeather：大学寒假参考《第一行代码》做过Android，代码在家中电脑。彼时不熟悉Github，未上传。
+7.coolWeather：大学寒假参考《第一行代码》做过Android，代码在家中电脑。未上传。
 
 
 
