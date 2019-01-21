@@ -15,14 +15,14 @@
 
 
 3.paini_service:实习前由老师牵线，负责人郑泽带领的派尼APP项目，后端基于SpringBoot/SpringData
-（已交付上海派尼实业科技有限公司）
+（因已交付上海某公司，所以不公开）
 
 
 4.awesomeProject：实习阶段抽时间自学的Golang爬虫
 （有代码待维护，上传单机版，并发版，分布式版三个模块）
 
 
-5.newsWebsite:研一开始接触SpringBoot，结合Mybatis学习的资讯分享网站项目
+5.newsWebsite:研一开始接触SpringBoot，结合Mybatis+Redis学习的资讯分享网站项目
 
 
 6.unityGames/unityGames2:考研结束的暑假所做，基于Unity引擎和C#的小游戏开发
