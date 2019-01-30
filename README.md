@@ -9,7 +9,7 @@
 
 1.JsZs.github.io：结合HEXO搭建了个人博客。https://jszs.github.io/
 （后因CSDN的排名系统可以激励自己，从2018/05将学习内容转至https://blog.csdn.net/qq_24572475
-发布69篇文章，其中包含经典书籍的读书笔记，浙大PAT算法题，项目经验等）
+拥有近5000访问量，发布了69篇原创，其中包含经典书籍的读书笔记，浙大PAT算法题，项目经验等）
 
 2.dianpingCrawler2:大学时期较为满意的Python爬虫项目
 
